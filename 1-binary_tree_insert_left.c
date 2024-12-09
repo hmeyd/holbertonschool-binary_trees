@@ -2,7 +2,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_node - creates a binary tree node
+ * binary_tree_insert_left - creates a binary tree node
  * @parent: le parent dans le node
  * @value: le vareur dans le new_noeud
  * Return: le nouvau noeud
