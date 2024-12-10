@@ -2,7 +2,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_delete - creates a binary tree node
+ *  binary_tree_delete - creates a binary tree node
  * @tree: le parent dans le node
  * Return: le nouvau noeud
  */
