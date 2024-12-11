@@ -13,10 +13,8 @@ size_t binary_tree_size(const binary_tree_t *tree)
 
 	if (tree == NULL)
 		return (0);
-
 	if (tree->left != NULL)
 		hl = binary_tree_size(tree->left);
-
 	if (tree->right != NULL)
 		hr = binary_tree_size(tree->right);
 
